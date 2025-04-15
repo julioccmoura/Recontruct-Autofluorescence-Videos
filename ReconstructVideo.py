@@ -11,9 +11,6 @@ import cv2
 import numpy as np
 import os
 
-
-
-
 # Set the GUI skeleton using QtDesign
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
